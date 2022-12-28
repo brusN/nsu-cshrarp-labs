@@ -1,0 +1,11 @@
+/.idea
+TestResults
+nsu-shrap-source.sln.DotSettings.user
+
+# Tests
+tests/bin/
+tests/obj/
+
+# Main
+main/bin/
+main/obj/
